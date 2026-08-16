@@ -1,1 +1,2 @@
-print("Hello Git!")
+name = input("Adınızı daxil edin: ")
+print(f"Hello Git! Salam, {name}!")
